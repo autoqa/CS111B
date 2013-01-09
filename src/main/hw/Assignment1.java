@@ -8,4 +8,12 @@ package main.hw;
  * Time: 11:50 AM
  */
 public class Assignment1 {
+
+    public Assignment1(){
+
+    }
+
+    public static void main(String[] args){
+
+    }
 }
